@@ -1,0 +1,6 @@
+# 响应式代理记账财政咨询服务类网站织梦模板（自适应手机端）
+
+模板介绍：<br>织梦内核开发的模板，该模板属于企业通用、代理、记账、财政咨询类企业使用，一款适用性很强的模板，基本可以适合各行业的企业网站！<br>响应式自适应各种移动设备，同一个后台，数据即时同步，简单适用！<br>原创设计、手工书写DIV+CSS，<br>完美兼容IE7+、Firefox、Chrome、360浏览器等；主流浏览器；<br>页面简洁简单，容易管理，DEDE内核都可以使用；附带测试数据！<br>织梦模板通用安装教程：example.com/dedecms/az/example.com<br>模板特点：<br>1：采用现在流行的HTML5框架，兼容主流的浏览器，响应式，自适应，完美支持移动设备<br>2：整站界面设计大气，展现出你的实力。<br>3：后台直接修改联系方式、地址、版权信息，网站内容等，修改更加方便。<br>使用程序：<br>织梦DEDECMS版本都可以使用。<br>模板页面：<br>example.com<br>example.com<br>example.com<br>example.com<br>这里不一一列出！<br>温馨提示：<br>按照正常的织梦安装步骤来安装还原就可以用了，从后台重新点击保存下系统基本参数。系统&gt;系统基本参数&gt;保存（确定）。<br>后期bug修正：<br>暂无<br>网站截图：<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZHfRt" style="color: red;">https://mega-file.org/ZHfRt</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
